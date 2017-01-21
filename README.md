@@ -4,6 +4,9 @@ Welcome to your new Jekyll theme! In this directory, you'll find the files you n
 
 TODO: Delete this and the text above, and describe your gem
 
+This is a jekyll theme I made for my portfolio/blog/personal site. It supports projects and blog posts. It is also very simple, but I like it that way!
+
+
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
@@ -29,6 +32,8 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here. Describe your available layouts, includes, and/or sass.
+
+i still need to do this
 
 ## Contributing
 

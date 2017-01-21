@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["sam@bateman.io"]
 
   spec.summary       = "A little theme I threw together for my blog :D"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/Cyberdr8gon/coolrus.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
